@@ -1,4 +1,4 @@
-## Exams: rules, tips, and tricks
+## Exam guidelines
 
 
 ### How
