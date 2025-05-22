@@ -1,7 +1,7 @@
-# Exams: rules, tips, and tricks
+## Exams: rules, tips, and tricks
 
 
-## How
+### How
 
 - There will not be written tests, only an oral exam.
 - A list of coding assignments is provided below. **Examinable** means I might ask you that; **optional** means I won't.
@@ -15,14 +15,14 @@ Exams proceed as follows:
 
 Each of these three parts usually lasts about 15 minutes, for a total of 45-ish minutes. 
 
-## When
+### When
 
 - Exams are by appointment only (the official exam dates are nominal) and take place in my office, U2-2007. Please send me an email and we'll find a suitable day/time ([davide.gerosa@unimib.it](mailto:davide.gerosa@unimib.it)).
 - As for all exams here, you're welcome to come with a witness. 
 - I’m very happy to be flexible with the exam dates and I value your time; this applies to your side as well. If you’re not as prepared as you’d like and decide to decline the result, that’s okay, but I will ask you to wait about 2 months before coming back. This is equivalent to 6 exam attempts (*"appelli"*) per year.
 
 
-## Important: don't overdo it!
+### Important: don't overdo it!
 
 - Coding assignments are not marked beforehand, so you don't need to submit them in advance. Just have them ready and committed when you come for the exam, that's all. 
 -  **You do not need to write fully fledged and cleaned notebooks where your re-write the theory background etc.** This is a 6-CFU class and should correspond to a commensurate workload. 
@@ -30,7 +30,7 @@ Each of these three parts usually lasts about 15 minutes, for a total of 45-ish 
 - As a guideline, your notebooks should not be cleaner than those of my solutions (and as you will see, they're kind of rough...)  
 
 
-## Coding problem list
+### Coding problem list
 
 1. Monty Hall problem **(examinable)** [[see L02]](lectures/L02_probability.ipynb)
 2. Nasty integral *or* kicking horses **(optional, both)** [[see L03]](lectures/L03_probability.ipynb)
